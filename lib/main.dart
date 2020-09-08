@@ -64,7 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
-  String text = 'tank mode';
+  String text = 'tank mode 01';
 
   @override
   Widget build(BuildContext context) {
